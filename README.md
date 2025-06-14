@@ -19,11 +19,6 @@
 
 Refer to `healthyspy_concept.pdf` for the full system proposal, use cases, and architecture.
 
----
-
-## 🖼️ Architecture
-
-(Include a diagram or flowchart in `architecture.png` if available)
 
 ---
 
